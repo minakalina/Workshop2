@@ -1,3 +1,5 @@
 nickname = "BB"
-nickname = 'BB'
-print("My nickname:",nickname)
+nickname = "BB"
+
+
+print("My nickname:", nickname)

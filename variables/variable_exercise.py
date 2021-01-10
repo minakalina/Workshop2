@@ -16,8 +16,8 @@ print( x + y)
 
 x = 5
 y = 10
-sum = x + y
-print(sum)
+z = x + y
+print(z)
 
 5.Remove the illegal characters in the variable name:
 
@@ -25,7 +25,7 @@ my_first_name = "John"
 
 6.Insert the correct syntax to assign the same value to all three variables in one code line.
 
-x,y,z = ["Orange","Banana", "Cherry"]
+x = y = z = "Orange"
 
 7.Insert the correct keyword to make the variable x belong to the global scope.
 

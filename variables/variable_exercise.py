@@ -27,6 +27,7 @@ my_first_name = "John"
 
 x = y = z = "Orange"
 
+
 7.Insert the correct keyword to make the variable x belong to the global scope.
 
 def myfunc():

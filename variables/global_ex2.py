@@ -1,4 +1,5 @@
 x = "awesome"
+# global and function
 
 
 def myfunc():
